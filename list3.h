@@ -4,6 +4,8 @@
 /* Tanggal : 9 November 2026*/
 #ifndef list3_H
 #define list3_H
+#include <stdio.h>
+#include <stdlib.h>
 
 #define NIL NULL
 #define First(L) (L).First 
